@@ -1,0 +1,53 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/moritz/Work/Codebase/Metacollect/organizational/app/models/organizational/entity.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/home/moritz/Work/Codebase/Metacollect/organizational/app/models/organizational/application_record.rb": [
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/home/moritz/Work/Codebase/Metacollect/organizational/app/controllers/organizational/application_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/moritz/Work/Codebase/Metacollect/organizational/app/mailers/organizational/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/moritz/Work/Codebase/Metacollect/organizational/app/jobs/organizational/application_job.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1480876247
+  }
+}
